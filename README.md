@@ -11,12 +11,19 @@ Son múltiples las aplicaciones del análisis espacial desde las que podrías co
 
 Mi/s pregunta/s de investigación es/son la/s siguiente/s (sustitye los puntos suspensivos por tus preguntas, no borres el símbolo \*).
 
-* ...
+* Se pudiese determinar como ha afectado el incremento del parque vehicular (apoyado en estadísticas de la DGII) en los últimos 10 años a la contaminación del medio ambiente en la Republica Dominicana?
 
-* ...
+* Con datos estadísticos de la Oficina Nacional de Estadísticas, se podría determinar la tasa de mortalidad que ocurre en función a la contaminación por plomo en un área determinada?
 
-* ...
 
-* ...
+
+* Teniendo datos de las actividades sísmicas en el territorio de la Republica Dominicana, se podría determinar los lugares de riesgo sísmico para la construcción de escuelas y al mismo tiempo identificar las que se encuentran construidas en terrenos de alto riesgos y reubicarlas, también aplicaría para hospitales, oficinas gubernamentales y otros?
+
+* Con estadísticas de población se podría determinar que cantidad de personas de clase baja no residen en viviendas propias, con la finalidad de identificar espacios para posibles proyectos de viviendas económica para futuras planificación urbana. 
+
+
+
+
+
 
 * ...
